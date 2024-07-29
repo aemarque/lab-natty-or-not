@@ -26,6 +26,7 @@ O objetivo final é encontrar a pessoa certa para o lugar certo, alguém que con
 **Plataformas que usam IA no R&S**
 
 LinkedIn
+
 Skeel
 
 ## Futuro
@@ -35,6 +36,19 @@ Skeel
 Imagine a IA como a Central de Comando de R&S. Com ela, você tem acesso a um volume gigantesco de informações sobre os candidatos, permitindo que você tome decisões mais precisas e estratégicas. 
 
 A IA é como um supercomputador que analisa dados em tempo real e te apresenta um panorama completo de cada candidato. Com essa visão 360°, você pode identificar os talentos que realmente farão a diferença na sua equipe.
+
+### O Futuro do Recrutamento: A IA e o Ser Humano Trabalhando Juntos
+O futuro do recrutamento é a união entre a IA e o ser humano. A IA traz a eficiência e a precisão, enquanto o humano traz a empatia, a criatividade e a capacidade de construir relacionamentos. 
+
+Ao trabalhar em conjunto, a IA e o humano podem criar uma experiência de recrutamento mais eficiente, personalizada e humana.
+
+## Agradecimentos
+Obrigado por ler até aqui!
+
+Esse e-book foi gerado com a ajuda de IA e se encontra no meu LinkedIn: www.linkedin.com/in/alexandra-marques77
+
+Esse conteúdo foi gerado para fins didáticos e pode conter erros gerados pela IA.
+
 
 
 
