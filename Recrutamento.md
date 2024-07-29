@@ -24,8 +24,20 @@ Já a seleção é o processo de escolher, entre os candidatos recrutados, aquel
 O objetivo final é encontrar a pessoa certa para o lugar certo, alguém que contribua para o crescimento e o sucesso da empresa.
 
 **Plataformas que usam IA no R&S**
+
 LinkedIn
 Skeel
+
+Futuro
+
+Desvendando o Futuro do Recrutamento: A IA como seu Centro de Controle
+
+Imagine a IA como a Central de Comando de R&S. Com ela, você tem acesso a um volume gigantesco de informações sobre os candidatos, permitindo que você tome decisões mais precisas e estratégicas. 
+
+A IA é como um supercomputador que analisa dados em tempo real e te apresenta um panorama completo de cada candidato. Com essa visão 360°, você pode identificar os talentos que realmente farão a diferença na sua equipe.
+![image](https://github.com/user-attachments/assets/678dc0de-9c33-47cf-9605-c6c2ec69d824)
+
+
 
 
 
