@@ -50,6 +50,7 @@ Esse e-book foi gerado com a ajuda de IA e se encontra no meu LinkedIn: www.link
 Esse conteúdo foi gerado para fins didáticos e pode conter erros gerados pela IA.
 
 
+![image](https://github.com/user-attachments/assets/740b0d55-ecb8-4113-a1ef-ba02926308f4)
 
 
 
