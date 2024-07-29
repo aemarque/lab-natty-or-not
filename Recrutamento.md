@@ -12,3 +12,7 @@ Nos anos 40, Alan Turing criou uma máquina para simular o pensamento humano;
 Anos 80 e 90: Renascimento da IA com o desenvolvimento de sistemas especialistas e redes neurais artificiais;
 2022: O lançamento do ChatGPT pela OpenAI popularizou a IA generativa.
 
+### IA Generativa
+IA Generativa é uma tecnologia que cria novos conteúdos, como textos, imagens, músicas ou vídeos, a partir dos dados que ela aprende.
+Exemplos: ChatGPT, Gemini, Copilot, Bing Creator, MidJorney
+
