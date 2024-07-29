@@ -14,5 +14,18 @@ Anos 80 e 90: Renascimento da IA com o desenvolvimento de sistemas especialistas
 
 ### IA Generativa
 IA Generativa é uma tecnologia que cria novos conteúdos, como textos, imagens, músicas ou vídeos, a partir dos dados que ela aprende.
+
 Exemplos: ChatGPT, Gemini, Copilot, Bing Creator, MidJorney
+
+### Recrutamento e Seleção
+
+O recrutamento é como um imã que atrai os talentos para as vagas de sua empresa. 
+Já a seleção é o processo de escolher, entre os candidatos recrutados, aquele que dá “match” com a vaga. 
+O objetivo final é encontrar a pessoa certa para o lugar certo, alguém que contribua para o crescimento e o sucesso da empresa.
+
+**Plataformas que usam IA no R&S**
+LinkedIn
+Skeel
+
+
 
